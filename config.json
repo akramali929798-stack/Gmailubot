@@ -1,0 +1,50 @@
+{
+  "bot_token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+  "admin_ids": [
+    5550493320,
+    576819773
+  ],
+  "gmail_list": [
+    "sulrafasdakksdasmiss@gmail.com",
+    "rukuvaittttggddaa12@gmail.com",
+    "abburukuvaird22kh@gmail.com",
+    "mktofajjol200@gmail.com",
+    "arfinnisha1010@gmail.com",
+    "Tishajahan019@gmail.com",
+    "marjia15fatema@gmail.com"
+  ],
+  "imap_passwords": {
+    "sulrafasdakksdasmiss@gmail.com": "mzytnfptjeudawqm",
+    "rukuvaittttggddaa12@gmail.com": "wvlizsbfsyqgouea",
+    "abburukuvaird22kh@gmail.com": "pzobtssdlrzkaiay",
+    "mktofajjol200@gmail.com": "pdqtgkmimbcebigv",
+    "arfinnisha1010@gmail.com": "ovsvlbvdclodtwpd",
+    "Tishajahan019@gmail.com": "ilozzwgxhzfinuka",
+    "marjia15fatema@gmail.com": "ekmevliieeqrubgw"
+  },
+  "force_join": {
+    "enabled": false,
+    "channels": []
+  },
+  "auto_delete": {
+    "user_seconds": 30,
+    "group_seconds": 120
+  },
+  "otp_group": {
+    "enabled": false,
+    "link": "https://t.me/Gmail_otp_botx"
+  },
+  "group_bot": {
+    "enabled": true,
+    "token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+    "group_id": "-1003939455952",
+    "send_all_mail": true
+  },
+  "blocked_users": [],
+  "sheet_title": "Alias Bot Data",
+  "ad_button": {
+    "enabled": true,
+    "text": "TG Sell Bot",
+    "url": "https://t.me/Virtual_Nuumberr_bot?startapp=Kldt1HRF"
+  }
+}
