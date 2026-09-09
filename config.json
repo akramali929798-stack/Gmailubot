@@ -1,5 +1,5 @@
 {
-  "bot_token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+  "bot_token": "8698118717:AAEu-wE79_MKaAi5iH0QLlsE1ZlIf7I7cS8",
   "admin_ids": [
     5550493320,
     576819773
@@ -36,7 +36,7 @@
   },
   "group_bot": {
     "enabled": true,
-    "token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+    "token": "8698118717:AAEu-wE79_MKaAi5iH0QLlsE1ZlIf7I7cS8",
     "group_id": "-1003939455952",
     "send_all_mail": true
   },
