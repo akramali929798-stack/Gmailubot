@@ -42,7 +42,7 @@ _start_time = time.time()  # process start — used for uptime / health check
 # ==========================
 CONFIG_FILE = "config.json"
 DEFAULT_CONFIG = {
-    "bot_token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+    "bot_token": "8698118717:AAEu-wE79_MKaAi5iH0QLlsE1ZlIf7I7cS8",
     "admin_ids": [5550493320, 576819773],
     "gmail_list": [],
     "imap_passwords": {},    "force_join": {"enabled": False, "channels": []},
@@ -50,7 +50,7 @@ DEFAULT_CONFIG = {
     "otp_group": {"enabled": True, "link": "https://t.me/Gmail_otp_botx"},
     "group_bot": {
         "enabled": True,
-        "token": "8698118717:AAG7fOc2OB_h4DJQJt0nU3IFbPtsv46aUwA",
+        "token": "8698118717:AAEu-wE79_MKaAi5iH0QLlsE1ZlIf7I7cS8",
         "group_id": "-1003939455952",
         "send_all_mail": True
     },
